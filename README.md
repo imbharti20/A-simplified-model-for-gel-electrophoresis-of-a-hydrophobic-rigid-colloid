@@ -1,0 +1,1 @@
+# A-simplified-model-for-gel-electrophoresis-of-a-hydrophobic-rigid-colloid
